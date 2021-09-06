@@ -1,0 +1,7 @@
+@import "../scss/app.scss";
+
+.c {
+    width: 110px;
+    height: 110px;
+    color: aqua;
+}
